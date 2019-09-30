@@ -18,7 +18,7 @@ Ch16-19
 ## range的技術(1)
 ```
 list1=range(6)
-list(list1)
+list1
 ```
 ```
 答案是:range(0, 6)
@@ -26,7 +26,7 @@ list(list1)
 ## range的技術(2)
 ```
 list(range(2,7))
-#list2=range(1,6)
+#list2=range(2,7)
 #list2
 ```
 ```
