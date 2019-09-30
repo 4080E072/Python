@@ -40,7 +40,7 @@ list3
 ```
 答案是:range(0, 5, 8)
 ```
-# range的技術(4)
+## range的技術(4)
 ```
 for dd in range(9):
    print(dd)
