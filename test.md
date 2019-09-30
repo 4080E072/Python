@@ -9,32 +9,37 @@
 ```
 
 # 教科書作業:
-'''Unit 5:重複執行的作業
+```
+Unit 5:重複執行的作業
 Ch16-19
 range的技術
 range的技術(1)
 list1=range(6)
 list1
-'''答案是:[0, 1, 2, 3, 4, 5]
-
+答案是:[0, 1, 2, 3, 4, 5]
+```
 # range的技術(2)
-```list(range(1,6))
+```
+list(range(1,6))
 #list2=range(1,6)
 #list2
-```答案是:[1, 2, 3, 4, 5]
-
+答案是:[1, 2, 3, 4, 5]
+```
 # range的技術(3)
-```list3=range(1,6,2)
+```
+list3=range(1,6,2)
 list3
-```答案是:
-
+答案是:
+```
 # range的技術(4)
-```for dd in range(6):
+```
+for dd in range(6):
    print(dd)
-```答案是:
-
+答案是:
+```
 # 程式閱讀題:下列程式執行後會印出什麼？
-```list1=range(10)
+```
+list1=range(10)
 list2=range(1,10)
 list3=range(1,10,2)
 list4=range(10,1,-2)
@@ -44,4 +49,5 @@ print(list(list2))
 print(list(list3)) 
 print(list(list4))  
 
-```答案是:
+答案是:
+```
