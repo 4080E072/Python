@@ -78,7 +78,20 @@ print(list(list4))
 ```
 ## 程式設計題
 ```
-### 1
+1.
 list1=[1,3,6,7]
 list1
+
+2.
+list1=range(1,8,2)
+list(list1)
+
+3.
+list1=range(1,52,10)
+list(list1)
+
+4.
+list1=range(51,0,-10)
+list(list1)
+
 ```
