@@ -49,7 +49,7 @@ while x <= 100:
 print(sum)
 
 ```
-## 6.使用while 迴圈(loop計算1*3*5*7.....*99
+## 6.使用while 迴圈(loop計算1x3x5x7.....x99
 ```
 sum = 1
 x = 1
