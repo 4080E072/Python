@@ -18,7 +18,7 @@ for x in range(1, 101,2):
   sum +=  x
 print(sum)
 ```
-## 3.使用for 迴圈(loop)計算1*3*5*7.....*99
+## 3.使用for 迴圈(loop)計算1x3x5x7.....x99
 ```
 sum = 1
 
